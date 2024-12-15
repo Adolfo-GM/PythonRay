@@ -1,10 +1,11 @@
 # PythonRay
 A lightweight Python module for creating 3D graphics and performing ray tracing using Pygame.
-<br>
-Features
 
-Ray Tracing: Simulate realistic lighting, shadows, and reflections.
 
-3D Rendering: Render realistic 3D scenes.
+## Features
 
-Lightweight: No external dependencies beyond Pygame.
+> Ray Tracing: Simulate realistic lighting, shadows, and reflections.
+
+> 3D Rendering: Render realistic 3D scenes.
+
+> Lightweight: No external dependencies beyond Pygame.
