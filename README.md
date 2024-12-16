@@ -10,4 +10,4 @@ A lightweight Python module for creating 3D graphics and performing ray tracing 
 
  *Lightweight*: No external dependencies beyond Pygame and numpy.
 
-[robot](game.png)
+![screnshoot](game.png)
